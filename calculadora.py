@@ -32,7 +32,7 @@ while True:
     
     try:
         
-        opcao = int(input("opcaor o tipo da operação: "))
+        opcao = int(input("Escolha o tipo da operação: "))
         
         if opcao == 1:
             numero1 = int(input("Digite o primeiro número: "))
@@ -67,4 +67,3 @@ while True:
         
     except ValueError:
         print("Erro: Por favor, digite apenas números.")
-        
