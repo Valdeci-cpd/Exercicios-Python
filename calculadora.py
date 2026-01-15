@@ -1,26 +1,14 @@
-def adicao(a, b):
-    numero1 = a 
-    numero2 = b
-    total = numero1 + numero2
-    return total
+def adicao(n1, n2):
+    return n1 + n2
     
-def subtracao(a, b):
-    numero1 = a 
-    numero2 = b
-    total = numero1 - numero2
-    return total
+def subtracao(n1, n2):
+    return n1 + n2
     
-def divisao(a, b):
-    numero1 = a 
-    numero2 = b
-    total = numero1 / numero2
-    return total
+def divisao(n1, n2):
+    return n1 + n2
     
-def multiplicacao(a, b):
-    numero1 = a 
-    numero2 = b
-    total = numero1 * numero2
-    return total
+def multiplicacao(n1, n2):
+    return n1 + n2
 
 while True:
     
